@@ -1,7 +1,18 @@
-#birds-info, #turtle-info, #cat-info {
+#birds-info {
   display: none;
 }
 
-.turtle {
-  float: 
+#turtle-info {
+  display: none;
+  color: red;
+}
+
+#cat-info {
+  display: none;
+  color: blue;
+}
+
+img {
+  height: 200px;
+  width: 200px;
 }
